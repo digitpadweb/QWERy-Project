@@ -10,7 +10,7 @@ tailwind.config = {
             'container': '1360px',
         },
         backgroundImage: {
-          'hero': "url('/images/banner.png')",
+          'hero': "url('./images/banner.png')",
         },
         fontFamily: {
             'sans': ['Open Sans'],
